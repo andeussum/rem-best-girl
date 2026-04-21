@@ -1,0 +1,44 @@
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.deps.json
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.dll
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.pdb
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.dll
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.pdb
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/home/heroa/Minecraft Map Center Calculator/Minecraft Map Center Calculator/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/home/heroa/Desktop/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1
+/home/heroa/Desktop/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.deps.json
+/home/heroa/Desktop/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/home/heroa/Desktop/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.dll
+/home/heroa/Desktop/Minecraft Map Center Calculator/bin/Debug/net10.0/ConsoleApp1.pdb
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.dll
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.pdb
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/home/heroa/Desktop/Minecraft Map Center Calculator/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/home/heroa/Desktop/Rem/bin/Debug/net10.0/ConsoleApp1
+/home/heroa/Desktop/Rem/bin/Debug/net10.0/ConsoleApp1.deps.json
+/home/heroa/Desktop/Rem/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/home/heroa/Desktop/Rem/bin/Debug/net10.0/ConsoleApp1.dll
+/home/heroa/Desktop/Rem/bin/Debug/net10.0/ConsoleApp1.pdb
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.dll
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.pdb
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/home/heroa/Desktop/Rem/obj/Debug/net10.0/ref/ConsoleApp1.dll
