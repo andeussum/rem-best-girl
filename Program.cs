@@ -120,17 +120,12 @@ public static class Program
         // a is the coordinates (x or y)
         // Solving for the center blocks
         int HalfOfMapLength, RangeCoords, MapGridPosition, result;
-        // Extra variables
-        int SideSlash128;
 
         HalfOfMapLength = side / 2;
 
         RangeCoords = HalfOfMapLength + a; // This turns a -64 to 63 range into 0 to 127 range coordinates
 
         MapGridPosition = (int)Math.Floor((double)RangeCoords / side); // This gives the position of the imaginary map grid
-
-        // Gives the result of side divided by 128
-        SideSlash128 = side / 128;
 
         result = MapGridPosition * (side) + ((side/2) - 64); // Provides the northwest center block of the map
 
